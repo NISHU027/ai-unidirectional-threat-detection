@@ -6,6 +6,10 @@ AI-powered passive network threat detection designed for **one-way / unidirectio
 >
 > The complete live path has been validated on a real network interface: live capture, Zeek telemetry, first-stage detection, detection-to-ML gating, seven-model inference, threat scoring, dashboard updates, activity timing, the 92% response threshold, and explicit response handling all work together.
 
+## Working project demo
+
+[Watch the project working demo on YouTube](https://youtu.be/JWLF2Z-H4SQ?si=GbS9H3ZLLQNiniKp)
+
 ![System Architecture](docs/architecture.svg)
 
 ## Architecture
